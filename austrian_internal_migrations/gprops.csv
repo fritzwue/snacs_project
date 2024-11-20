@@ -1,6 +1,0 @@
-# prop_name, value
-name,at_migrations
-description,"A network of migrations between municipalities in Austria, from 2002 to 2022. A weighted directed link from source to target indicates a migration flow from these two municipalities. Edges are annotated with migration volume (number of people), nationality, sex, and year."
-citation,"['\"Internal migration within Austria acc.to communes since 2002 (status of 2022)\", Statistik Austria, https://data.statistik.gv.at']"
-url,https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
-tags,"['Social', 'Economic', 'Travel', 'Weighted', 'Politlcal', 'Timestamps', 'Metadata']"
